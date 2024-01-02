@@ -1,0 +1,11 @@
+<style>
+p{
+    text-decoration: overline color(srgb red green blue);
+}
+#xyz{color: blue;}
+.xyzz{text-align: right;}
+body{
+    background-image: url();
+    border-radius: 10px;
+}
+</style>

@@ -1,0 +1,19 @@
+h3{
+    font-variant-position: super;
+    text-decoration: overline;
+}
+.second{
+    display: none;
+    box-shadow: 10px solid color(a98-rgb red green blue);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block ;
+}
+.header{
+    height: 500px;
+    background-image: url(https://img.etimg.com/thumb/msid-106404884,width-650,height-488,imgsize-76924,resizemode-75/happy-new-year-2024-history-importance-and-why-1st-january-celebrate-new-years-day-world-wide.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-size: 500px;
+    display: inline-block;
+    
+}
